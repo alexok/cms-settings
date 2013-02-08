@@ -1,0 +1,4 @@
+cms-settings
+============
+
+Yii extension
